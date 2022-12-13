@@ -245,9 +245,9 @@ export default function Price() {
                 </div>
                 <a href="http://wickedtemplates.com/?ref=codepen" target="_blank"
                     class="fixed bottom-0 right-0 z-10 m-2 rounded-full">
-                    <div class="items-center justify-start hidden font-medium text-gray-900 lg:flex w-52 title-font">
-                        <img class="object-cover object-center rounded-full bg-blue-1300" alt="badge"
-                            src="https://www.colorsandfonts.com/WickedTemplates.svg" />
+                    <div class="items-right justify-start hidden font-small text-gray-50 lg:flex w-20 title-font">
+                        <img class=" bg-blue-100" alt="badge"
+                            src="https://www.mappr.co/wp-content/uploads/2021/08/image-47.jpeg" />
                     </div>
                 </a>
             </section>
