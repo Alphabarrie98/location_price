@@ -1,9 +1,12 @@
 import React from "react";
-export default function Town_price() {
+import Navbar from "./Navbar";
+export default function Price() {
     return (
         <>
+        <Navbar />
+
             {/* <!-- component --> */}
-            <section class="bg-black ">
+            <section class="bg-auto ">
                 <div class="container px-5 py-12 mx-auto lg:px-20">
                     <div class="flex flex-col flex-wrap pb-6 mb-12 text-white ">
                         <h1 class="mb-12 text-3xl font-medium text-white">
