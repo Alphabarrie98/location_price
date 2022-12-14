@@ -10,6 +10,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Price from './components/Price';
 import Contact from './components/Contact';
+import Mapdata from './components/Mapdata';
 
 
 const router = createBrowserRouter([
@@ -24,7 +25,11 @@ const router = createBrowserRouter([
   {
     path: "/contact",
     element: <Contact/>
-  }
+  },
+  {
+    path: "/mapdata",
+    element: <Mapdata/>
+  },
 ]);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

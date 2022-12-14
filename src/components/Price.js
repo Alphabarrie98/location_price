@@ -63,7 +63,7 @@ export default function Price() {
                                             <path
                                                 d="M6 18L18 6M6 6l12 12" />
                                         </svg>
-                                    </span>Feature.
+                                    </span>Duala.
                                 </p>
                                 <p class="flex items-center mb-2 text-lg font-normal tracking-wide text-gray-400">
                                     <span
@@ -73,7 +73,7 @@ export default function Price() {
                                             <path
                                                 d="M6 18L18 6M6 6l12 12" />
                                         </svg>
-                                    </span>Feature.
+                                    </span>Sinkor.
                                 </p>
                                 <p class="flex items-center mb-2 text-lg font-normal tracking-wide text-gray-400">
                                     <span
@@ -83,7 +83,7 @@ export default function Price() {
                                             <path
                                                 d="M6 18L18 6M6 6l12 12" />
                                         </svg>
-                                    </span>Feature.
+                                    </span>Somalia Drive. to Redlight is cost $100.00 LD
                                 </p>
                             </div>
                         </div>
@@ -93,7 +93,7 @@ export default function Price() {
                                     <span>you can pay using your wallet  </span>
                                 </h1>
                                 <button
-                                    class="w-full px-4 py-2 mx-auto mt-3 text-white transition duration-500 ease-in-out transform border border-gray-900 rounded-lg text-md hover:bg-gray-900 focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2 focus:border-gray-700 focus:bg-gray-800 ">Buy
+                                    class="w-full px-4 py-2 mx-auto mt-3 text-white transition duration-500 ease-in-out transform border border-gray-900 rounded-lg text-md hover:bg-gray-900 focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2 focus:border-gray-700 focus:bg-gray-800 ">
                                     pay Now
                                 </button>
                                 <p class="mx-auto mt-6 text-xs text-white">anywhere and Anytime </p>
@@ -105,7 +105,7 @@ export default function Price() {
                         <div class="w-full xl:w-1/4 md:w-1/4">
                             <div class="relative flex flex-col h-full p-8 ">
                                 <h2 class="mb-4 font-semibold tracking-widest text-white uppercase title-font">
-                                    Sponsorships
+                                    Upper Monrovia
                                 </h2>
                                 <p class="flex items-center mb-2 text-lg font-normal tracking-wide text-white">
                                     <span
@@ -204,10 +204,10 @@ export default function Price() {
                                     <span>$50 </span>
                                 </h1>
                                 <button
-                                    class="w-full px-4 py-2 mx-auto mt-3 text-blue-100 transition duration-500 ease-in-out transform bg-blue-600 border-blue-600 rounded-md items-centerw-full text-md focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2 hover:bg-blue-800 ">Buy
+                                    class="w-full px-4 py-2 mx-auto mt-3 text-blue-100 transition duration-500 ease-in-out transform bg-blue-600 border-blue-600 rounded-md items-centerw-full text-md focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2 hover:bg-blue-800 ">
                                     Now
                                 </button>
-                                <p class="mx-auto mt-6 text-xs text-white">Only once within 6 months</p>
+                                <p class="mx-auto mt-6 text-xs text-white">Always available</p>
                             </div>
                         </div>
                     </div>
