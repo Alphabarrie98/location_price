@@ -11,6 +11,7 @@ import reportWebVitals from './reportWebVitals';
 import Price from './components/Price';
 import Contact from './components/Contact';
 
+
 const router = createBrowserRouter([
   {
     path: "/",
